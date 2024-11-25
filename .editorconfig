@@ -22,3 +22,6 @@ quote_type = double
 
 [*.{js,jsx,ts,tsx,cjs,mjs,css,html}]
 end_of_line = lf
+
+[src/components/**]
+generated_code = true
