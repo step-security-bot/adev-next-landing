@@ -12,7 +12,7 @@ quote_type = single
 
 [*.md]
 trim_trailing_whitespace = false
-max_line_length = 0
+max_line_length = off
 
 [{*.yaml,*.yml}]
 quote_type = single
