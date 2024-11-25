@@ -54,7 +54,7 @@ const config = [
     },
   },
   {
-    ignores: ['**/**/node_modules', '**/**/.next', '**/**/public' /*, "env.js"*/],
+    ignores: ['**/**/node_modules', '**/**/.next', '**/**/public'],
   },
 ];
 export default config;
